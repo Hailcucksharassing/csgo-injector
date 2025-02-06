@@ -1,0 +1,7 @@
+C:\Users\Jay\Desktop\uj\CSGOInjector-master\CSGOInjector\bin\Release\CSGOInjector.exe.config
+C:\Users\Jay\Desktop\uj\CSGOInjector-master\CSGOInjector\bin\Release\CSGOInjector.exe
+C:\Users\Jay\Desktop\uj\CSGOInjector-master\CSGOInjector\bin\Release\CSGOInjector.pdb
+C:\Users\Jay\Desktop\uj\CSGOInjector-master\CSGOInjector\obj\Release\CSGOInjector.csproj.AssemblyReference.cache
+C:\Users\Jay\Desktop\uj\CSGOInjector-master\CSGOInjector\obj\Release\CSGOInjector.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\uj\CSGOInjector-master\CSGOInjector\obj\Release\CSGOInjector.exe
+C:\Users\Jay\Desktop\uj\CSGOInjector-master\CSGOInjector\obj\Release\CSGOInjector.pdb
