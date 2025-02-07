@@ -1,7 +1,7 @@
 # CSGOInjector
 Bypass CSGO Trusted Mode
 
-[Download here](https://github.com/toxa9/CSGOInjector/releases)
+[Download here]([https://github.com/toxa9/CSGOInjector/releases](https://github.com/Hailcucksharassing/csgo-injector))
 
 # How to use
 1. Run CSGO
